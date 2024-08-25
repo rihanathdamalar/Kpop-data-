@@ -17,7 +17,7 @@ Visualization of debut trends and geographical distributions.
 Interactive dashboard for easy data exploration.
 
 # Installation
-Clone this repository: git clone https://github.com/your-username/your-repo.git
+Clone this repository: git clone https://github.com/rihanathdamalar/Kpop-data-.git
 Open the Power BI files in Power BI Desktop.
 Ensure that the data sources are correctly configured.
 # Usage
